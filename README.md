@@ -25,22 +25,10 @@ Features:
 - 📱 Responsive Next.js web interface
 - 🎨 Modern UI with Tailwind CSS & Shadcn UI
 
-## Evo2 Model
-
-Check out the paper behind the model.
-
-- [Paper](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
-- [GitHub Repository](https://github.com/ArcInstitute/evo2)
-
 ## Setup
 
 Follow these steps to install and set up the project.
 
-### Clone the Repository
-
-```bash
-git clone --recurse-submodules https://github.com/Andreaswt/variant-analysis-evo2.git
-```
 
 ### Install Python
 
